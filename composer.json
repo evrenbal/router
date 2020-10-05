@@ -20,7 +20,7 @@
     "require": {
         "php": ">=7.1",
         "ext-phalcon": ">=3.4",
-        "phalcon/incubator": "^3.4",
+        "phalcon/incubator": ">3.4",
         "baka/support": "^1"
     },
     "require-dev": {
